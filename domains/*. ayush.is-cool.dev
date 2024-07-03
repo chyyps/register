@@ -1,0 +1,17 @@
+{
+    "description": "for email",
+
+    "domain": "is-cool.dev",
+    "subdomain": "ayush",
+
+    "owner": {
+        "repo": "https://github.com/chyyps/register",
+        "email": "eyo@tuta.io"
+    },
+
+    "record": {
+        "TXT": ["zoho-verification=zb74592542.zmverify.zoho.in"]
+    },
+
+    "proxied": false
+}
